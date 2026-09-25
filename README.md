@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0ea5e9,50:2563eb,100:7c3aed&amp;text=Hola%2C%20soy%20Javier%20Hern%C3%A1ndez&amp;fontColor=ffffff&amp;fontSize=36&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Developer%20%7C%20Full%20Stack%20%26%20E-commerce%20Architect&amp;descAlignY=60&amp;descAlign=50" alt="Cabecera animada de Javier Hernández" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0ea5e9,50:2563eb,100:7c3aed&amp;text=Hola%2C%20soy%20Javier%20Hern%C3%A1ndez&amp;fontColor=ffffff&amp;fontSize=36&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20E-commerce%20Architect&amp;descAlignY=60&amp;descAlign=50" alt="Cabecera animada de Javier Hernández" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/XxprogunxX">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=%F0%9F%9A%80+Software+Developer+enfocado+en+aplicaciones+web+escalables;%F0%9F%9B%92+Especialista+en+E-commerce%2C+Mercado+Pago+y+paneles+administrativos;%F0%9F%92%BB+Stack+Moderno%3A+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Prisma;%E2%9A%A1+Creando+soluciones+digitales+de+alto+impacto+y+rendimiento" alt="Texto animado Javier Hernández" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=1500&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=%F0%9F%9A%80+Software+Developer+enfocado+en+aplicaciones+web+escalables;%F0%9F%9B%92+Especialista+en+E-commerce%2C+Mercado+Pago+y+paneles+administrativos;%F0%9F%92%BB+Full+Stack%3A+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Prisma;%E2%9A%A1+Creando+soluciones+digitales+de+alto+impacto+y+rendimiento" alt="Texto animado Javier Hernández" />
   </a>
 </p>
 
