@@ -16,6 +16,21 @@
 
 ---
 
+<div align="center">
+  <h3><code>javier@github ~ $ ./contributions.sh</code></h3>
+  <img src="./contrib-heatmap.svg" width="860" alt="GitHub Contributions Heatmap" />
+  <br><br>
+  <h3><code>javier@github ~ $ neofetch --ascii_distro javier</code></h3>
+  <table>
+    <tr>
+      <td valign="top"><img src="./javier-ascii.svg" width="370" alt="Javier Hernández ASCII Portrait" /></td>
+      <td valign="top"><img src="./info-card.svg" width="490" alt="Javier Hernández Neofetch Card" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 👨‍💻 Sobre Mí
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Animación de programación" />

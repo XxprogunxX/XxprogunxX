@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+.DS_Store
+
+# Fotos personales y archivos fuente (Privacidad)
+source-photo*
+source-prepped*
+*.jpg
+*.jpeg
+*.png
